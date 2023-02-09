@@ -1,0 +1,25 @@
+form {
+    width: 400px;
+    margin: 0 auto;
+   
+  }
+  label {
+    display: block;
+    margin-top: 20px;
+  }
+  input[type="text"], input[type="password"], input[type="date"], input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+
+  .email input[type="email"]{
+      width: 500px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+    
+  }
